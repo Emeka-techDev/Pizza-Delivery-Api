@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+python-dotenv
+psycopg[binary]
+alembic
+pyjwt
+pwdlib[argon2]
+python-multipart
